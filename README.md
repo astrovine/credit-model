@@ -32,7 +32,7 @@ This project demonstrates an end-to-end machine learning workflow:
 ## 📁 Project Structure
 
 ```
-payment-model/
+credit-model/
 ├── main.ipynb              # ML pipeline development
 ├── fraud_api.py            # FastAPI application
 ├── test_api.py             # API testing script
