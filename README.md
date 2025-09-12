@@ -228,5 +228,3 @@ This project demonstrates concepts from:
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for improvements!
-
-**Built with ❤️ for learning and demonstrating ML engineering skills.**
